@@ -20,8 +20,8 @@ CRUD Tugas & Jawaban
 CRUD Jadwal Sekolah
 
 LOGIN:
-hanif@mail.com
-password123
+Hanif@mail.com
+admin123
 
 admin@mail.com
 admin123
